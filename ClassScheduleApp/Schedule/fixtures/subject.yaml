@@ -1,0 +1,28 @@
+- model: Schedule.Subject
+  pk: 1
+  fields:
+    TableName: Задачи математической физики
+- model: Schedule.Subject
+  pk: 2
+  fields:
+    TableName: Схемотехника
+- model: Schedule.Subject
+  pk: 3
+  fields:
+    TableName: Сетевое программное обеспечение
+- model: Schedule.Subject
+  pk: 4
+  fields:
+    TableName: Построение СУБД
+- model: Schedule.Subject
+  pk: 5
+  fields:
+    TableName: Защита информации
+- model: Schedule.Subject
+  pk: 6
+  fields:
+    TableName: Введение в разработку ПО
+- model: Schedule.Subject
+  pk: 7
+  fields:
+    TableName: Основы переферийных устройств

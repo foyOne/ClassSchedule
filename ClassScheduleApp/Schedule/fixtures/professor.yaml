@@ -1,0 +1,30 @@
+- model: Account.Professor
+  pk: 1
+  fields:
+    User: 1
+    TableName: Бочкин А.М.
+- model: Account.Professor
+  pk: 2
+  fields:
+    User: 2
+    TableName: Скакунов В.Н.
+- model: Account.Professor
+  pk: 3
+  fields:
+    User: 3
+    TableName: Андреев А.Е.
+- model: Account.Professor
+  pk: 4
+  fields:
+    User: 4
+    TableName: Конченков В.И.
+- model: Account.Professor
+  pk: 5
+  fields:
+    User: 5
+    TableName: Кравченя П.Д.
+- model: Account.Professor
+  pk: 6
+  fields:
+    User: 6
+    TableName: Быков Д.В.

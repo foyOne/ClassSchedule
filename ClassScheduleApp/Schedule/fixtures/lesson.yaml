@@ -1,0 +1,149 @@
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В802'
+    Date: '2019-10-21'
+    Time: '7-8'
+    Subject: 1
+    Group: 1
+    Professor: 1
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1301'
+    Date: '2019-10-21'
+    Time: '9-10'
+    Subject: 2
+    Group: 1
+    Professor: 2
+
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1301'
+    Date: '2019-10-22'
+    Time: '1-2'
+    Subject: 6
+    Group: 1
+    Professor: 3
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1301'
+    Date: '2019-10-22'
+    Time: '3-4'
+    Subject: 4
+    Group: 1
+    Professor: 4
+
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1301'
+    Date: '2019-10-23'
+    Time: '1-2'
+    Subject: 2
+    Group: 1
+    Professor: 2
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1301'
+    Date: '2019-10-23'
+    Time: '3-4'
+    Subject: 2
+    Group: 1
+    Professor: 2
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1301'
+    Date: '2019-10-23'
+    Time: '5-6'
+    Subject: 2
+    Group: 1
+    Professor: 2
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1301'
+    Date: '2019-10-23'
+    Time: '7-8'
+    Subject: 7
+    Group: 1
+    Professor: 4
+
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В902б'
+    Date: '2019-10-24'
+    Time: '1-2'
+    Subject: 1
+    Group: 1
+    Professor: 1
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В902б'
+    Date: '2019-10-24'
+    Time: '3-4'
+    Subject: 1
+    Group: 1
+    Professor: 1
+
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1302'
+    Date: '2019-10-25'
+    Time: '3-4'
+    Subject: 5
+    Group: 1
+    Professor: 6
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1302'
+    Date: '2019-10-25'
+    Time: '5-6'
+    Subject: 3
+    Group: 1
+    Professor: 5
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1303'
+    Date: '2019-10-25'
+    Time: '7-8'
+    Subject: 6
+    Group: 1
+    Professor: 5
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1303'
+    Date: '2019-10-25'
+    Time: '9-10'
+    Subject: 6
+    Group: 1
+    Professor: 5
+
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1302'
+    Date: '2019-10-26'
+    Time: '1-2'
+    Subject: 4
+    Group: 1
+    Professor: 4
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1302'
+    Date: '2019-10-26'
+    Time: '3-4'
+    Subject: 4
+    Group: 1
+    Professor: 4
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1303'
+    Date: '2019-10-26'
+    Time: '5-6'
+    Subject: 7
+    Group: 1
+    Professor: 4
+- model: Schedule.Lesson
+  fields:
+    Classroom: 'В1303'
+    Date: '2019-10-26'
+    Time: '7-8'
+    Subject: 7
+    Group: 1
+    Professor: 4

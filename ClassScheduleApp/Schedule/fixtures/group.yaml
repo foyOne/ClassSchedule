@@ -1,0 +1,8 @@
+- model: Schedule.Group
+  pk: 1
+  fields:
+    Name: ИВТ-460
+- model: Schedule.Group
+  pk: 2
+  fields:
+    Name: ИВТ-461
