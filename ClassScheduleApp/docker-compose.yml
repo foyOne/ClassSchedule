@@ -1,17 +1,6 @@
 version: "3.3"
 
 services:
-  db:
-    image: postgres
-    ports:
-      - "5184:5432"
-    environment:
-      POSTGRES_USER: foy
-      POSTGRES_PASSWORD: foy
-      POSTGRES_DB: ScheduleDB
-      POSTGRES_HOST: localhost
-    volumes:
-      - ./db/data:/var/lib/postgresql/data
   web:
     build: .
     command: python manage.py runserver 0.0.0.0:8080
@@ -19,5 +8,3 @@ services:
       - "3184:8080"
     volumes:
       - .:/code
-    depends_on:
-      - db
