@@ -2,7 +2,7 @@ version: "3.3"
 
 services:
   web:
-    build: .
+    image: olegfilimonov/private_repo:latest
     command: python manage.py runserver 0.0.0.0:8080
     ports:
       - "3184:8080"
